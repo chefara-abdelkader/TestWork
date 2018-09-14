@@ -1,0 +1,23 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chefara-abdelkader/TestWork.git"
+  },
+  "author": "abdelkader chefara\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001br\u001b[",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chefara-abdelkader/TestWork/issues"
+  },
+  "homepage": "https://github.com/chefara-abdelkader/TestWork#readme",
+  "dependencies": {
+    "jquery.js": "0.0.2-security",
+    "normalize.css": "^8.0.0"
+  }
+}
